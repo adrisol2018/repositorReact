@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Navbar() {
+function Navbar(props) {
     return(
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark" aria-label="Fifth navbar example">
     <div className="container-fluid">
